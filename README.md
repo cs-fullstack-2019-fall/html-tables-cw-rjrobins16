@@ -5,7 +5,7 @@ Use CSS for all styling!
 Reproduce the table in ```Example1.png```. Use the provided images for each software product. The linka
 
 https://kubuntu.org/
-https://lubuntu.net/
+
 https://xubuntu.org/
 
 Be sure to create a hyperlink for each product name that uses these URLs.

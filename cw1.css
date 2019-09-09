@@ -1,0 +1,13 @@
+body{
+    background: lightpink;
+}
+
+
+table{
+text-align: center;
+    border: 1px solid gray;
+    width: 80%;
+}
+th, td {
+    border: 1px solid gray;
+}
