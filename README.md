@@ -11,10 +11,13 @@ https://xubuntu.org/
 Be sure to create a hyperlink for each product name that uses these URLs.
 
 ### Example 2
-Create a table for 3 (or more) of your favorite YouTube videos. Create 4 columns: the embedded YouTube video, channel name, video name (with a link to the video), and the date it was uploaded. 
+Create a table for 3 (or more) of your favorite YouTube videos. Create 4 columns: the embedded YouTube video, publisher, channel name, rating (up to 5 stars). 
+
+See ```Example2.png```
 
 ### CHALLENGE:
-For both tables, use CSS to collapse borders, and add striping (different color) for every other row, and any other style improvements you can think of. Experiment!
+* For all tables, use CSS to collapse borders, and add striping (different color) for every other row. 
+* Add any other style improvements you can think of. Experiment!
 
 
 
